@@ -72,6 +72,6 @@ int main() {
 		<< student.get_id() << "\nCredits: "
 		<< student.get_number_of_credits() << endl;
 
-	cout << "All Tests Passed Successfully" << endl;
+	cout << "All Tests Passed Successfully!" << endl;
 	return 0;
 }
